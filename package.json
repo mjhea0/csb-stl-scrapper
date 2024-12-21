@@ -1,0 +1,9 @@
+{
+  "name": "csb-stl-scrapper",
+  "version": "0.0.1",
+  "author": "Michael Herman",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^13.17.0"
+  }
+}
